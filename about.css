@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
 
 body {
-  background-image: url(/portfolio/site-background-1.jpg);
+  background-image: url(site-background-1.jpg);
 }
 
 * {
@@ -87,5 +87,11 @@ h1 {
 @media (max-width: 1000px) {
   .about-container {
     text-align: center;
+  }
+}
+
+@media (min-width: 700px) {
+  body {
+    zoom: 125%;
   }
 }

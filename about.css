@@ -95,3 +95,9 @@ h1 {
     zoom: 125%;
   }
 }
+
+@media (min-width: 1080px) {
+  * {
+    font-size: 1.05em;
+  }
+}

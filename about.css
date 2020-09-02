@@ -101,3 +101,14 @@ h1 {
     font-size: 1.05em;
   }
 }
+
+.bottom {
+  margin-left: 1em;
+  bottom: 0.5em;
+  position: absolute;
+}
+
+.bottom img {
+  padding: 1em;
+  width: 0.3em;
+}

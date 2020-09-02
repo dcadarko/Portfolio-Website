@@ -92,12 +92,44 @@ hr {
   height: 100px;
 }
 
-footer img {
-  width: 3em;
-  bottom: 1em;
+.bottom {
+  margin-left: 1em;
+  bottom: 0.5em;
   position: absolute;
 }
 
-footer {
-  text-align: center;
+.bottom img {
+  padding: 1em;
+  width: 8%;
+  height: auto;
+}
+
+@media (max-width: 965px) {
+  .bottom img {
+    width: 10%;
+  }
+}
+
+@media (max-width: 775px) {
+  .bottom img {
+    width: 13%;
+  }
+}
+
+@media (max-width: 513px) {
+  .bottom img {
+    width: 16%;
+  }
+}
+
+@media (max-width: 421px) {
+  .bottom img {
+    width: 19%;
+  }
+}
+
+@media (max-width: 300px) {
+  .bottom img {
+    width: 22%;
+  }
 }

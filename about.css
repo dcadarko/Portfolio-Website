@@ -104,7 +104,7 @@ h1 {
 
 .bottom {
   margin-left: 1em;
-  bottom: 0.5em;
+  bottom: 0.2em;
   position: absolute;
 }
 
@@ -134,12 +134,17 @@ h1 {
 
 @media (max-width: 421px) {
   .bottom img {
+    margin-top: 2em;
     width: 19%;
   }
 }
 
 @media (max-width: 300px) {
+  * {
+    font-size: 0.98em;
+  }
   .bottom img {
+    margin-bottom: 0;
     width: 22%;
   }
 }

@@ -121,6 +121,9 @@ h1 {
 }
 
 @media (max-width: 775px) {
+  .bottom {
+    bottom: 0;
+  }
   .bottom img {
     width: 13%;
   }

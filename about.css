@@ -122,14 +122,14 @@ h1 {
 
 @media (max-width: 775px) {
   * {
-    font-size: 0.99em;
+    font-size: 0.965em;
   }
   .bottom {
     bottom: 0;
   }
   .bottom img {
     padding: 0.5em;
-    width: 13%;
+    width: 10%;
   }
 }
 

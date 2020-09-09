@@ -1,6 +1,6 @@
 # Portfolio-Website Read Me
 
-Hi, i'm Darko Cvetkovski. This is my portfolio website. You can check it out by visiting www.dcadarko.tk . 
+Hi, i'm Darko Cvetkovski. This is my portfolio website. You can check it out by visiting https://www.dcadarko.tk . 
 
 
 

@@ -133,3 +133,9 @@ hr {
     width: 22%;
   }
 }
+
+@media (min-width: 2000px) {
+  * {
+    zoom: 107%;
+  }
+}

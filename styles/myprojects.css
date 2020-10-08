@@ -17,8 +17,8 @@ body {
 }
 
 .project-container img {
-  width: 30%;
-  height: 30%;
+  width: 50%;
+  height: 50%;
   border: 1px solid;
 }
 
@@ -55,6 +55,9 @@ a:hover {
   .bottom img {
     width: 10%;
   }
+  .project-container {
+    display: inline;
+  }
 }
 
 @media (max-width: 775px) {
@@ -82,4 +85,8 @@ a:hover {
   .bottom img {
     width: 22%;
   }
+}
+
+h4 {
+  font-size: 20.07px;
 }

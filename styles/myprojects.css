@@ -20,6 +20,12 @@ body {
   width: 50%;
   height: 50%;
   border: 1px solid;
+  object-fit: fill;
+}
+
+.project2 img {
+  width: 49%;
+  height: 85%;
 }
 
 a {
